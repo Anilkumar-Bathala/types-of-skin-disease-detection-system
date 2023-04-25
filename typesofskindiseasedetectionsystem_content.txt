@@ -1,0 +1,47 @@
+Challenge:
+---------- 
+According to medical reports and statistics, skin diseases have millions of victims worldwide.
+These diseases might affect the health and life of patients and increase the costs of healthcare services.
+Delays in diagnosing such diseases make it difficult to overcome the consequences of these types of disease.
+Usually, diagnosis is performed using dermoscopic images, where specialists utilize certain measures to produce the results.
+This approach to diagnosis faces multiple disadvantages,
+such as overlapping infectious and inflammatory skin diseases and high levels of visual diversity,
+obstructing accurate diagnosis.
+
+A key issue in healthcare is to discover a disease at its early stage and determine
+its type to commence with proper treatment. Today, millions of people worldwide are
+impacted by skin diseases, placing a burden on the health of the individual and the economy
+of governments, particularly if not treated in its early stages. The American Cancer
+Society reported that 7180 people died of melanoma (melanoma cancer) in 2021. At the
+same time, estimates released in the 2022 annual report of the American Cancer Society
+reported that the number of new cases in the skin disease group (melanoma) was estimated
+to be approximately 99,780, with the death rate expected to include 7650 people.
+In contrast, others diseases can cause significant impairment and deformation, due to
+symptoms such as itching or pain. Moreover, damage to the skin caused by such diseases
+can also harm an individual’s self-confidence and wellbeing. In general, most people
+believe that some skin sicknesses do not cause significant problems. In contrast, most
+individuals try to deal with these skin diseases using their own personal strategies. If
+available medicines are not effective for a specific skin disease, they will simply aggravate
+the disease further. Additionally, the individual might not even be aware of the seriousness
+of their skin condition.
+
+Approach:
+---------
+AI has become a promising method by which to develop methods for medical image analysis.
+As a promising AI approach, deep learning networks have proven successful in image analysis,
+with unique characteristics, and can automatically learn image representation.
+Consequently, intelligent-solutions-based CAD systems are urgently required to help dermatologists
+to accurately and quickly diagnose skin diseases, reducing the burden on healthcare systems
+and the waiting times for medical dermoscopic screenings.
+Deep learning, particularly convolutional neural networks (CNNs), has outperformed
+other conventional techniques in human disease diagnostics. As a result, this paper
+proposes a computer-aided diagnosis (CAD) system for detecting skin disease based on
+multi-modality data-fusion techniques. This paper is oriented towards the diagnosis of
+dermoscopic images in addition to analyzing metadata. The proposed CAD system uses
+AI techniques to fuse and classify metadata and dermoscopic images for accurate disease
+diagnosis. In this paper, multi-CNN models are used as a backbone for feature extraction
+from dermoscopic images, which are classified using different machine learning algorithms
+to obtain a reliable, accurate, and fast skin-disease diagnosis. Therefore, the proposed
+CAD system relies on the reliable fusion of multiple extracted features to practically help
+physicians diagnose skin diseases in real-time. The proposed model can result in more
+accurate diagnoses in metadata and dermoscopic images.
